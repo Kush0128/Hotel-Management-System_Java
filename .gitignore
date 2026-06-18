@@ -1,0 +1,11 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+
+# Logs
+*.log
+hs_err_pid*
